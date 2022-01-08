@@ -1,0 +1,11 @@
+{
+    "name": "tillen/composer-test",
+    "description": "测试",
+    "authors": [
+        {
+            "name": "liyanchao",
+            "email": "lyc@mbachina.com"
+        }
+    ],
+    "require": {}
+}
